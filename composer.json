@@ -1,0 +1,15 @@
+{
+    "name": "alkar/rest-api-books",
+    "authors": [
+        {
+            "name": "Oleksandr Karas",
+            "email": "al.karas.pr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "application\\": "application/"
+        }
+    }
+}
